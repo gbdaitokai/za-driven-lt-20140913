@@ -6,5 +6,4 @@
 | Koutarou Ishizaki | TBD      |
 | ryosms            | TBD      |
 | きよくらならみ    | TBD      |
-| Ryoji Hayasaka    | TBD      |
 | 今中幸太          | TBD      |
