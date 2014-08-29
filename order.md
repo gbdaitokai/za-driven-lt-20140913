@@ -3,7 +3,7 @@
 | もじゃ変          | ネオサイタマのIT事情(仮) |
 | ToruInoue         | TBD                      |
 | mako              | TBD                      |
-| Koutarou Ishizaki | TBD                      |
+| Koutarou Ishizaki | May the Team be with you |
 | ryosms            | TBD                      |
 | きよくらならみ    | TBD                      |
 | 今中幸太          | TBD                      |
