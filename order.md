@@ -10,6 +10,6 @@
 | y.zaki            | TBD                      |
 | Sakie Muneyasu    | TBD                      |
 | みずき            | TBD                      |
-| Masayuki Maekawa  | TBD                      |
 | Takaaki Omoda     | TBD                      |
 | 今井真人          | TBD                      |
+| Yuichiro Yamakawa | TBD                      |
