@@ -2,7 +2,7 @@
 |:------------------|:-------------------------|
 | もじゃ変          | ネオサイタマのIT事情(仮) |
 | ToruInoue         | TBD                      |
-| mako              | TBD                      |
+| mako              | 自分って◯◯エンジニア？   |
 | Koutarou Ishizaki | May the Team be with you |
 | ryosms            | TBD                      |
 | きよくらならみ    | TBD                      |
