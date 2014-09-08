@@ -10,7 +10,7 @@
 | y.zaki             | TBD                      |
 | Sakie Muneyasu     | TBD                      |
 | みずき             | TBD                      |
-| Takaaki Omoda      | TBD                      |
+| Takaaki Omoda      | Unityはじめました（仮）  |
 | 今井真人           | TBD                      |
 | Yuichiro Yamakawa  | TBD                      |
 | 48                 | TBD                      |
