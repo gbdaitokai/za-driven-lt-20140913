@@ -12,7 +12,7 @@
 | みずき             | TBD                      |
 | Takaaki Omoda      | Unityはじめました（仮）  |
 | 今井真人           | ユトリの事情             |
-| Yuichiro Yamakawa  | TBD                      |
+| Yuichiro Yamakawa  | 兼業主夫の時短法(調理編) |
 | 48                 | TBD                      |
 | 岡山宇宙教育懇談会 | TBD                      |
 | eielh              | 戦闘力(仮)               |
