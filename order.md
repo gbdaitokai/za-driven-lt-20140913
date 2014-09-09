@@ -15,3 +15,4 @@
 | Yuichiro Yamakawa  | TBD                      |
 | 48                 | TBD                      |
 | 岡山宇宙教育懇談会 | TBD                      |
+| eielh              | 戦闘力(仮)               |
