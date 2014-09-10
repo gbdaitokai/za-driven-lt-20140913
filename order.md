@@ -7,7 +7,6 @@
 | ryosms             | TBD                      |
 | きよくらならみ     | TBD                      |
 | 今中幸太           | TBD                      |
-| y.zaki             | TBD                      |
 | Sakie Muneyasu     | 狩猟と猟銃について       |
 | みずき             | TBD                      |
 | Takaaki Omoda      | Unityはじめました（仮）  |
