@@ -4,7 +4,7 @@
 | ToruInoue          | TBD                      |
 | mako               | 自分って◯◯エンジニア？ | 
 | Koutarou Ishizaki  | May the Team be with you |
-| ryosms             | TBD                      |
+| ryosms             | たまにはMS系の話題でも   |
 | きよくらならみ     | TBD                      |
 | 今中幸太           | TBD                      |
 | Sakie Muneyasu     | 狩猟と猟銃について       |
