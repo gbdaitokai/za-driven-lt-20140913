@@ -8,7 +8,7 @@
 | きよくらならみ     | TBD                      |
 | 今中幸太           | Cardboard(仮)            |
 | Sakie Muneyasu     | 狩猟と猟銃について       |
-| みずき             | TBD                      |
+| みずき             | 最近のあみたそと #WC社   |
 | Takaaki Omoda      | Unityはじめました（仮）  |
 | 今井真人           | ユトリの事情             |
 | Yuichiro Yamakawa  | 兼業主夫の時短法(調理編) |
