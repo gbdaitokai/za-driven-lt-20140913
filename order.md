@@ -6,7 +6,7 @@
 | Koutarou Ishizaki  | May the Team be with you |
 | ryosms             | たまにはMS系の話題でも   |
 | きよくらならみ     | TBD                      |
-| 今中幸太           | TBD                      |
+| 今中幸太           | Cardboard(仮)            |
 | Sakie Muneyasu     | 狩猟と猟銃について       |
 | みずき             | TBD                      |
 | Takaaki Omoda      | Unityはじめました（仮）  |
