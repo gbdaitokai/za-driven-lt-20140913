@@ -1,7 +1,7 @@
 | 発表者             | タイトル                 |
 |:-------------------|:-------------------------|
 | もじゃ変           | ネオサイタマのIT事情(仮) |
-| ToruInoue          | TBD                      |
+| ToruInoue          | U11n                      |
 | mako               | 自分って◯◯エンジニア？ | 
 | Koutarou Ishizaki  | May the Team be with you |
 | ryosms             | たまにはMS系の話題でも   |
